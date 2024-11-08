@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "minor_version": 1,
+  "key": "person",
+  "data": {
+    "items": [
+      {
+        "id": "cherbonnier",
+        "name": "CHERBONNIER",
+        "user_id": "13c7f15b3cc64238a58908baf299a4b9",
+        "device_trackers": []
+      }
+    ]
+  }
+}
